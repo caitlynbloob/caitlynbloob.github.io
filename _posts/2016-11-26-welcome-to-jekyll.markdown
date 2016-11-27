@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Introduction"
-date:   2016-11-26 20:09:44 -0800
 categories: text
 ---
-Hey, I am Caitlyn. I like to take pictures
+Hello my name is Caitlyn, I am new to photography. Follow my journey. 
+
+
+![introduction pic]({{site.url}}/pictures/infinite-road.jpeg)
